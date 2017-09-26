@@ -1,0 +1,6 @@
+B_J1_C_s.fastq	g_J1_C_s.fastq	bless	genomic
+B_J1_0_s.fastq	g_J1_0_s.fastq	bless	genomic
+B_J1_30_s.fastq	g_J1_30_s.fastq	bless	genomic
+B_J1_90_s.fastq	g_J1_90_s.fastq	bless	genomic
+B_J1_180_s.fastq	g_J1_180_s.fastq	bless	genomic
+B_J1_360_s.fastq	g_J1_360_s.fastq	bless	genomic
